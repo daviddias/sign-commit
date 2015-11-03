@@ -1,0 +1,26 @@
+{
+  "name": "sign-commit",
+  "version": "0.0.0",
+  "description": "A quick way to setup your commit signature to be conformant with contributing guidelines of a project ",
+  "bin": "src/index.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diasdavid/sign-commit.git"
+  },
+  "keywords": [
+    "sign",
+    "commit",
+    "contributing",
+    "guidelines",
+    "IPFS"
+  ],
+  "author": "David Dias <daviddias.p@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diasdavid/sign-commit/issues"
+  },
+  "homepage": "https://github.com/diasdavid/sign-commit#readme"
+}
