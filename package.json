@@ -1,6 +1,6 @@
 {
   "name": "sign-commit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A quick way to setup your commit signature to be conformant with contributing guidelines of a project ",
   "bin": "src/index.sh",
   "scripts": {
